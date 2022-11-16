@@ -1,0 +1,1 @@
+- [how to input chinese in KDE](https://forum.kde.org/viewtopic.php?f=309&t=161756)
