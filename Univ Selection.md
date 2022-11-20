@@ -28,3 +28,9 @@
 
 ### SUNY SBU
 #### [muller]
+
+
+### UNC
+#### [CU VisuaLab (cu-visualab.org)](http://cu-visualab.org/positions.html)
+
+#### [Student Research Opportunities | VACLab (unc.edu)](https://vaclab.unc.edu/student_opps/)
