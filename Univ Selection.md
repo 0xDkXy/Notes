@@ -34,3 +34,11 @@
 #### [CU VisuaLab (cu-visualab.org)](http://cu-visualab.org/positions.html)
 
 #### [Student Research Opportunities | VACLab (unc.edu)](https://vaclab.unc.edu/student_opps/)
+
+### TUM
+#### [](https://www.cs.cit.tum.de/cg/people/mission/)
+CG & VIS
+
+### UMASS
+#### [Narges Mahyu](https://groups.cs.umass.edu/hci-vis/open-positions/)
+vis
