@@ -1,0 +1,1 @@
+[](obsidian://open?vault=Notes&file=Univ%20Selection)
