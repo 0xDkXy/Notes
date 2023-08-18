@@ -5,3 +5,5 @@
 - parser
 
 ## dynamic 
+- heuristic vulnerability search algorithm
+- 
