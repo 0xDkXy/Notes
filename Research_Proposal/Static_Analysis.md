@@ -3,3 +3,7 @@ Static analysis examines the potential behavior of the program structure. These 
 ## symbolic execution
 
 ## Taint analysis
+
+## program slicing
+
+## abstract interpretation
