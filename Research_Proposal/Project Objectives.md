@@ -1,3 +1,8 @@
+## how to write it
+
+
+[how to write purpose of proposed investigation](https://www.quora.com/How-can-I-write-the-purpose-of-the-study-in-a-research-proposal)
+
 ## project objective / purpose of proposed investigation
 
 multiple views
