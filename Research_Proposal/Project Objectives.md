@@ -2,6 +2,7 @@
 
 
 [how to write purpose of proposed investigation](https://www.quora.com/How-can-I-write-the-purpose-of-the-study-in-a-research-proposal)
+[How to Write Objectives in a Research Proposal](https://www.wikihow.com/Write-Objectives-in-a-Research-Proposal)
 
 ## project objective / purpose of proposed investigation
 
