@@ -1,3 +1,5 @@
+## project objective / purpose of proposed investigation
+
 multiple views
 
 about the system security of OpenHarmony
