@@ -14,3 +14,5 @@ The attackers use third-party application stores and repacked applications to pr
 #### Trojan
 
 **Example:** Gugi. Gugi is an example of a banking Trojan that can exploit the security policies of Android Marshmallow.
+
+For example, researchers found that Judy, which affected around 36.5 million Android users, was present in around 40 applications in the Google Play Store.
