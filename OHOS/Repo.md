@@ -9,3 +9,7 @@
 
 ## boot
 - [startup_init](https://gitee.com/openharmony/startup_init/tree/master)
+
+## ark runtime
+- [arkcompiler_ets_runtime](https://gitee.com/openharmony/arkcompiler_ets_runtime#https://gitee.com/openharmony/docs/blob/master/zh-cn/readme/ARK-Runtime-Subsystem-zh.md)
+- [how to use ark compiler and decompiler](https://gitee.com/openharmony/arkcompiler_ets_runtime/blob/master/docs/README_zh.md#arkts%E5%AD%97%E8%8A%82%E7%A0%81%E7%BC%96%E8%AF%91%E5%B7%A5%E5%85%B7%E6%A6%82%E8%BF%B0)
