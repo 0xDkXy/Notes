@@ -17,6 +17,13 @@ In light of these escalating security concerns, safeguarding devices, operating 
 
 These research objectives naturally delineate the scope of this endeavor. The investigation encompasses multifaceted elements, including meticulous source code analysis, innovative techniques for malware detection, and an incisive analysis of applications within the OpenHarmony ecosystem. By addressing these crucial dimensions, this research aspires not only to fortify the security of OpenHarmony but also to contribute substantively to the overarching field of mobile operating system security.
 
+### New
+
+#### what can write
+the reasons or factors of malware
+- permission system exploitation
+- lack of awareness and poor practice and skill
+
 ## 5. Research Methodology
 
 ### Origin
