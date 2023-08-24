@@ -8,3 +8,4 @@ The cost competitiveness in the smartphone market has also contributed to the gr
 
 The operating system is an integral part of these smartphones and is responsible for the functioning of the device, which makes it prone to attacks that take control of the device. Hence, it becomes essential for the developers and researchers to enhance the ability of protecting from attacks and the ways to find out the potent vulnerability.
 
+Malware families that are popular are spyware, bots, Adware, Potentially Unwanted Applications, Trojans, and Trojan spyware. PUA is the topmost Android malware detect by Quick Heal. Trojan hold a
