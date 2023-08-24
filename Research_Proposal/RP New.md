@@ -7,3 +7,4 @@ In the past 10 years, with technological enhancements and spreading, the number 
 The cost competitiveness in the smartphone market has also contributed to the growth of the number of the devices and has made smartphone available to the middle- and lower-income groups as well. This availability and the features of the latest smartphone have make the population dependent on these phones for their daily work, such as paying house-hold through phone banking or transferring essential documents.
 
 The operating system is an integral part of these smartphones and is responsible for the functioning of the device, which makes it prone to attacks that take control of the device. Hence, it becomes essential for the developers and researchers to enhance the ability of protecting from attacks and the ways to find out the potent vulnerability.
+
