@@ -89,7 +89,20 @@ Static Analysis:
 
 Static analysis is a kind of method that can analysis the source code file and configuration file like JSON file and XML file without executing them. 
 
-OpenHarmony applications, crafted using JavaScript and the superset ArkTS, often contain pivotal JSON files like app.json5 and module.json5, housing vital configuration information. Static analysis facilitates the comprehensive examination of these files without execution. The analysis of configuration files extracts critical details like package names and permissions, fortifying the understanding of application characteristics. This method also extends to code analysis, focusing on the source code itself. Code analysis delves into elements such as API calls, information flow, taint tracking, native code interactions, clear-text analysis, and opcodes, thereby unveiling intricate nuances in application behavior.
+OpenHarmony applications, crafted using JavaScript and the superset ArkTS, often contain pivotal JSON files like app.json5 and module.json5, housing vital configuration information. Static analysis facilitates the comprehensive examination of these files without execution. 
+
+The analysis of configuration files extracts critical details like package names and permissions, fortifying the understanding of application characteristics. 
+
+This method also extends to code analysis, focusing on the source code itself. Code analysis delves into elements such as API calls, information flow, taint tracking, native code interactions, clear-text analysis, and opcodes, thereby unveiling intricate nuances in application behavior.
+
+Formal methods is a kind of static analysis method. Formal methods is the term applied to the analysis of software (and computer hardware) whose results are obtained purely through the use of rigorous mathematical methods. The mathematical techniques used include denotational semantics, axiomatic semantics, operational semantics, and abstract interpretation.
+
+Some of the implementation techniques of formal static analysis include:
+ - Abstract interpretation, to model the effect that every statement has on the state of an abstract machine (i.e., it 'executes' the software based on the mathematical properties of each statement and declaration). This abstract machine over-approximates the behaviours of the system: the abstract system is thus made simpler to analyze, at the expense of _incompleteness_ (not every property true of the original system is true of the abstract system). If properly done, though, abstract interpretation is _sound_ (every property true of the abstract system can be mapped to a true property of the original system).
+ - Data-flow analysis, a lattice-based technique for gathering information about the possible set of values;
+ - Hoare logic, a formal system with a set of logical rules for reasoning rigorously about the correctness of computer programs.
+ - Model checking, considers systems that have finite state or may be reduced to finite state by abstraction;
+ - Symbolic execution, as used to derive mathematical expressions representing the value of mutated variables at particular points in the code.
 
 Dynamic Analysis:
 
