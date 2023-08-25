@@ -87,6 +87,8 @@ The research methodology for this study encompasses a range of strategic approac
 
 Static Analysis:
 
+Static analysis is a kind of method that can analysis the source code file and configuration file like JSON file and XML file without executing them. 
+
 OpenHarmony applications, crafted using JavaScript and the superset ArkTS, often contain pivotal JSON files like app.json5 and module.json5, housing vital configuration information. Static analysis facilitates the comprehensive examination of these files without execution. The analysis of configuration files extracts critical details like package names and permissions, fortifying the understanding of application characteristics. This method also extends to code analysis, focusing on the source code itself. Code analysis delves into elements such as API calls, information flow, taint tracking, native code interactions, clear-text analysis, and opcodes, thereby unveiling intricate nuances in application behavior.
 
 Dynamic Analysis:
