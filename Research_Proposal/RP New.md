@@ -43,3 +43,7 @@ Central to this technological tapestry is the operating system - the architectur
 This symphony of threats underscores the urgency to uncover and address vulnerabilities that lie dormant within systems. Permissions exploitation, security protocol unawareness, suboptimal development practices, and coding vulnerabilities are all intricate threads that weave the tapestry of system vulnerability. This research commitment seeks to illuminate these threads, unraveling their nuances and intricacies to develop robust methods of detection. Through this endeavor, the aspiration is to not only ameliorate vulnerabilities but also to enhance the security infrastructure, raising the impenetrable ramparts against malicious intent.
 
 In the grand tapestry of technology, security vulnerabilities are the subtle gates that malevolent forces seek to exploit. By illuminating these gateways and developing methods to fortify them, this research aspires to create a robust shield against potential attacks. The ultimate goal is a safer technological ecosystem, one where developers of malevolent software face formidable challenges, and users can harness the full potential of technology without compromising their privacy and security. Thus, the resonance of this research extends beyond the confines of academia, resonating in the very fabric of modern society, where technology is an irreplaceable companion in daily life.
+
+## Scope and Backgroud of Research
+Please identify key issue/problems to be addressed
+
