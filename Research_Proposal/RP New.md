@@ -47,4 +47,5 @@ In the grand tapestry of technology, security vulnerabilities are the subtle gat
 ## Scope and Backgroud of Research
 Please identify key issue/problems to be addressed
 
-OpenHarmony, also known as OHOS, stand
+OpenHarmony, also known as OHOS, stand as an open-source iteration of HarmonyOS. This innovative platform marks a new era in mobile operating systems. intended for deployment on smart devices such as smartphones and various embedded terminals. So the security issue of it is more than important. The key issue of this research is focus on how to enhance the security of Openharmony and its related applications.
+
