@@ -61,4 +61,44 @@ So, in order to reduce the exploitation of vulnerability, it is necessary for th
 
 The OpenHarmony OS is not the same as other mobile system like Android. So we need to design new method or revise the existed detection method to adapt it.
 
-### Research Methodology
+### revised 0
+OpenHarmony, also referred to as OHOS, stands as a pioneering manifestation of HarmonyOS, signifying a revolutionary epoch in mobile operating systems. Engineered to thrive within a plethora of smart devices, ranging from smartphones to embedded terminals, the resounding significance of securing OpenHarmony cannot be overstated. This research embarks on a journey to fortify the bastions of OpenHarmony's security landscape and safeguard the integrity of both the system and its users, accentuating the critical importance of this endeavor.
+
+To advance the security of the OpenHarmony ecosystem, the initial step entails an exhaustive understanding of the diverse factors that pose threats to its sanctity. In essence, it demands an intimate familiarity with the methodologies employed to breach the defenses of OpenHarmony OS. These attacks crystallize into four distinctive categories, each targeting different facets of its architecture:
+
+a) **Hardware-based attacks:** In this realm, vulnerabilities within hardware components become the focal point. A substantial portion of these vulnerabilities stems from preinstalled components furnished by manufacturers, rendering fortification against such attacks arduous. Due to the intricacies of these vulnerabilities and the decentralized nature of patches, mitigation becomes a formidable challenge.
+
+b) **Kernel-based attacks:** The kernel stands as the nucleus of a mobile system, holding paramount influence over its functions. OpenHarmony is graced with a dual kernel landscape, offering both Linux Kernel and LiteOS as choices. This critical position renders kernel-based attacks as particularly pernicious. These attacks endeavor to seize root access to the system, potentially inflicting severe damage. As the arbiter of every operation and the orchestrator of system components, a compromised kernel cascades into dire consequences. Memory manipulation, device driver exploits, and root privilege assaults are recurrent themes within this realm.
+
+c) **Hardware abstraction layer-based attacks:** Attacks directed at the hardware abstraction layer (HAL) exploit vulnerabilities within this intermediary stratum. Given the pivotal role HAL plays in mediating interactions between hardware and software, its vulnerabilities expose a precarious entry point for attackers. The exploitation of these vulnerabilities can lead to a cascade of far-reaching consequences, transcending the boundaries of mere component compromise.
+
+d) **Applications-based attacks:** This category encompasses a diverse array of attacks that capitalize on vulnerabilities within both default and user-installed applications. Attackers leverage these vulnerabilities to breach security barriers, often executing privilege escalation tactics to exploit the system at varying levels. Native and third-party libraries become conduits for exploitation, enabling attackers to manipulate permissions, infiltrate the kernel, and seize root privileges. Once within the system's inner sanctum, attackers can extract sensitive data for personal gain or vend it to third parties.
+
+To counteract the exploitation of vulnerabilities, researchers and developers must innovate in the realm of detection methodologies. Novel approaches or enhancements to existing techniques are imperative to accommodate OpenHarmony's unique architecture. This bifurcates into two categories:
+
+a) **Static analysis:** A comprehensive scrutiny of both source code files and configuration files like JSON and XML is conducted without code execution. This method reveals latent vulnerabilities that could be exploited when the application is executed.
+
+b) **Dynamic analysis:** This approach involves executing the application within a controlled sandboxed environment, facilitating real-time analysis of its behavior. By immersing the application in a runtime environment, dynamic analysis scrutinizes its actions, unveiling potential vulnerabilities that might evade static analysis.
+
+OpenHarmony OS distinguishes itself from its counterparts, necessitating novel methodologies or tailored adaptations of existing methods. The holistic goal is to usher in a new era of security mechanisms meticulously calibrated to this unique ecosystem. This research manifests as a bridge between the paradigms of computer security and software engineering, safeguarding OpenHarmony against an evolving landscape of threats while advancing the collective knowledge base in securing modern computing ecosystems.
+## Research Methodology
+
+The research methodology for this study encompasses a range of strategic approaches, each meticulously tailored to extract insights and enhance the security of OpenHarmony OS. The following methods delineate the roadmap for investigation:
+
+Static Analysis:
+
+OpenHarmony applications, crafted using JavaScript and the superset ArkTS, often contain pivotal JSON files like app.json5 and module.json5, housing vital configuration information. Static analysis facilitates the comprehensive examination of these files without execution. The analysis of configuration files extracts critical details like package names and permissions, fortifying the understanding of application characteristics. This method also extends to code analysis, focusing on the source code itself. Code analysis delves into elements such as API calls, information flow, taint tracking, native code interactions, clear-text analysis, and opcodes, thereby unveiling intricate nuances in application behavior.
+
+Dynamic Analysis:
+
+Dynamic analysis harnesses the power of execution within a controlled sandbox runtime environment. This approach mandates a fully realized product, an OpenHarmony application complete with multiple HAP packages. By executing the application within this controlled setting, vulnerabilities and potential malware instances can be effectively identified. The potency of dynamic analysis lies in its capacity to scrutinize real-time behaviors during application runtime.
+
+Hybrid Analysis:
+
+Hybrid analysis ingeniously combines the strengths of both static and dynamic paradigms. It begins with decompilation to leverage static attributes such as permissions and intents. Subsequently, the application is executed within an emulator to discern intricate behaviors, culminating in a holistic understanding of application dynamics.
+
+Machine Learning Methods:
+
+Incorporating the prowess of machine learning (ML) and deep learning (DL), this research employs a diverse range of algorithms, including Naive Bayes (NB), Logistic Regression (LR), Decision Trees (DT), Random Forests (RF), Gradient Boosting (GB), Long Short-Term Memory networks (LSTM), Recurrent Neural Networks (RNN), and Multi-Layer Perceptrons (MLP). These techniques take center stage in vulnerability detection, where the generalization of source code into a structured format lays the foundation. By training neural network models on extensive datasets, the study endeavors to pinpoint vulnerabilities embedded within the source code and the nefarious behaviors exhibited by malicious applications.
+
+The fusion of these methodologies represents a cohesive and multifaceted approach to comprehensively address the challenges posed by OpenHarmony OS security concerns. By delving deep into static, dynamic, hybrid, and machine learning realms, this research strives to create a robust and comprehensive framework for enhancing system security.
