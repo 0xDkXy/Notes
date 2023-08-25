@@ -47,3 +47,4 @@ In the grand tapestry of technology, security vulnerabilities are the subtle gat
 ## Scope and Backgroud of Research
 Please identify key issue/problems to be addressed
 
+OpenHarmony, also known as OHOS, stand
