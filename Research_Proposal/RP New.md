@@ -49,3 +49,8 @@ Please identify key issue/problems to be addressed
 
 OpenHarmony, also known as OHOS, stand as an open-source iteration of HarmonyOS. This innovative platform marks a new era in mobile operating systems. intended for deployment on smart devices such as smartphones and various embedded terminals. So the security issue of it is more than important. The key issue of this research is focus on how to enhance the security of Openharmony and its related applications.
 
+In order to improve the security of OpenHarmony system and protect the system and its users, the first steps is to know and get familiar with the factors that threaten its security. In other words, we need to be familiar with the methods how to attack OpenHarmony OS. The categories of those attacks can be classified into four different categories based on the components of its targets. They are a). Hardware-based attacks, b). Kernel-based attacks, c). Hardware abstraction layer-based attacks and d). Applications-based attacks.
+
+To attack the hardware, attacks target the vulnerabilites found in the hardware components. Most of the vulnerabilities exist because of the preinstalled vulnerable components provided by the manufactures. It is tough to protect the system from attacks that target such components. These vulnerabilities are very difficult to patch, because the patches are available with the distributors and carriers only.
+
+A kernel is the heart of the mobile system. There is not the only choice of kernel to OpenHarmony, besides Linux Kernel, OpenHarmony also can use LiteOS as its kernel. Attacks targeting kernel are aimed at getting root access to the system and can cause severe damage.
