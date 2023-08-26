@@ -122,3 +122,7 @@ Machine Learning Methods:
 Incorporating the prowess of machine learning (ML) and deep learning (DL), this research employs a diverse range of algorithms, including Naive Bayes (NB), Logistic Regression (LR), Decision Trees (DT), Random Forests (RF), Gradient Boosting (GB), Long Short-Term Memory networks (LSTM), Recurrent Neural Networks (RNN), and Multi-Layer Perceptrons (MLP). These techniques take center stage in vulnerability detection, where the generalization of source code into a structured format lays the foundation. By training neural network models on extensive datasets, the study endeavors to pinpoint vulnerabilities embedded within the source code and the nefarious behaviors exhibited by malicious applications.
 
 The fusion of these methodologies represents a cohesive and multifaceted approach to comprehensively address the challenges posed by OpenHarmony OS security concerns. By delving deep into static, dynamic, hybrid, and machine learning realms, this research strives to create a robust and comprehensive framework for enhancing system security.
+
+Machine Learning with Static Analysis
+
+ML methods can be applied with static analysis techniques when detecting code vulnerabilities.
