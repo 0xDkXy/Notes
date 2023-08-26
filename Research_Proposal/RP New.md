@@ -115,7 +115,7 @@ Hybrid Analysis:
 
 Hybrid analysis ingeniously combines the strengths of both static and dynamic paradigms. It begins with decompilation to leverage static attributes such as permissions and intents. Subsequently, the application is executed within an emulator to discern intricate behaviors, culminating in a holistic understanding of application dynamics.
 
-For example, the study in reference(Feature engineering based on hybrid features for malware detection over Android framework) used static features, including permissions and intents and dynamic features, including IPs, emails, and URLs, to extract various information related to applications.
+For example, the study in reference(Feature engineering based on hybrid features for malware detection over Android framework) used static features, including permissions and intents and dynamic features, including IPs, emails, and URLs, to extract various information related to applications. The APKTool was used to decompile the APK  as the initial step. After extracting the data, it used disassembled dex files to create the feature vector for further analysis. The APK files were executed in an emulator to extract the behaviours of the  dynamic features.
 
 Machine Learning Methods:
 
