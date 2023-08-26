@@ -111,10 +111,11 @@ Dynamic analysis harnesses the power of execution within a controlled sandbox ru
 Network traffic analysis, code instrumentation, system call analysis, system resource analysis, and user interaction analysis, they were five feature extraction techniques identified for the dynamic analysis. Network-related features, process-related features, usage-related details, and component interactions were extracted using those five methods. Under the network-related features, uniform resource locators, internet protocols, network protocols, network certificates, and network traffic were considered while considering non-encrypted data, Java classes, intents, and system call for process-related features. Usage-related features such as processor, memory, battery, network, and process reports were also considered. Additionally, buttons, icons, actions, and events were considered for user interaction analysis features.
 
 
-
 Hybrid Analysis:
 
 Hybrid analysis ingeniously combines the strengths of both static and dynamic paradigms. It begins with decompilation to leverage static attributes such as permissions and intents. Subsequently, the application is executed within an emulator to discern intricate behaviors, culminating in a holistic understanding of application dynamics.
+
+For example, the study in reference(Feature engineering based on hybrid features for malware detection over Android framework) used static features, including permissions and intents and dynamic features, including IPs, emails, and URLs, to extract various information related to applications.
 
 Machine Learning Methods:
 
