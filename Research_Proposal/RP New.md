@@ -98,7 +98,7 @@ This method also extends to code analysis, focusing on the source code itself. C
 Formal methods is a kind of static analysis method. Formal methods is the term applied to the analysis of software (and computer hardware) whose results are obtained purely through the use of rigorous mathematical methods. The mathematical techniques used include denotational semantics, axiomatic semantics, operational semantics, and abstract interpretation.
 
 Some of the implementation techniques of formal static analysis include:
- - Abstract interpretation, to model the effect that every statement has on the state of an abstract machine (i.e., it 'executes' the software based on the mathematical properties of each statement and declaration). This abstract machine over-approximates the behaviours of the system: the abstract system is thus made simpler to analyze, at the expense of _incompleteness_ (not every property true of the original system is true of the abstract system). If properly done, though, abstract interpretation is _sound_ (every property true of the abstract system can be mapped to a true property of the original system).
+ - Abstract interpretation, to model the effect that every statement has on the state of an abstract machine (i.e., it 'executes' the software based on the mathematical properties of each statement and declaration). This abstract machine over-approximates the behaviours of the system: the abstract system is thus made simpler to analyze, at the expense of _incompleteness_ (not every property true of the original system is true of the abstract system). If properly done, though, abstract interpretation is _soud_ (every property true of the abstract system can be mapped to a true property of the original system).
  - Data-flow analysis, a lattice-based technique for gathering information about the possible set of values;
  - Hoare logic, a formal system with a set of logical rules for reasoning rigorously about the correctness of computer programs.
  - Model checking, considers systems that have finite state or may be reduced to finite state by abstraction;
@@ -110,6 +110,7 @@ Dynamic analysis harnesses the power of execution within a controlled sandbox ru
 
 Network traffic analysis, code instrumentation, system call analysis, system resource analysis, and user interaction analysis, they were five feature extraction techniques identified for the dynamic analysis. Network-related features, process-related features, usage-related details, and component interactions were extracted using those five methods. Under the network-related features, uniform resource locators, internet protocols, network protocols, network certificates, and network traffic were considered while considering non-encrypted data, Java classes, intents, and system call for process-related features. Usage-related features such as processor, memory, battery, network, and process reports were also considered. Additionally, buttons, icons, actions, and events were considered for user interaction analysis features.
 
+Another famous dynamic analysis method is Fuzz-Testing, also known as random-testing, where well-formed input data are randomly mutated and fed to the program under test at large, while monitoring for failures.
 
 Hybrid Analysis:
 
@@ -128,3 +129,46 @@ Machine Learning with Static Analysis
 ML methods can be applied with static analysis techniques when detecting code vulnerabilities if the source code is formulated into generalised form. Abstract Syntax Tree is a popular way of generalising the code. The rate of false alarms on vulnerabilities depends on the accuracy of formulating the AST and its generalisation mechanism, in addition to the quality of features, selected dataset, and trained algorithms.
 
 For example, the waffleDetector is a static approach to detect malicious code and vulnerabilities in Android applications by using sensitive permissions, program features and API calls.
+
+Machine Learning with Dynamic Analysis
+
+Dynamic analysis techniques also can be applied to generated features to train ML models to detect vulnerabilities at the execution time. In the first phase, the applications are collected from different sources. In the second phase, dynamic analysis is performed to these collected application packages and the permissions which are used by these applications during their installations and start-up are collected to form data set. In the last phase, we evaluate the data set by implementing various machine learning algorithm.
+
+### revised 0
+The research methodology embraced by this study is a finely woven tapestry of strategic approaches, each intricately tailored to unearth insights and bolster the security fabric of OpenHarmony OS. The ensuing methods map out a well-defined trajectory for this investigation:
+
+**Static Analysis:**
+
+Static analysis stands as a method meticulously designed to scrutinize source code files and configuration files, such as JSON and XML files, without actual execution.
+
+In the context of OpenHarmony, where applications are meticulously crafted using JavaScript and the potent ArkTS superset, these applications house pivotal JSON files like app.json5 and module.json5 that host indispensable configuration data. The tenets of static analysis empower the exhaustive examination of these files, unraveling concealed intricacies without executing the code itself.
+
+The purview of analysis extends to configurations, extracting indispensable details including package names and permissions, thereby enhancing the understanding of application characteristics.
+
+Static analysis further extends its grasp to the heart of application behavior - the source code. This rigorous scrutiny encompasses facets such as API calls, information flow, taint tracking, native code interactions, clear-text analysis, and opcodes. The insights derived from this analysis transcend mere lines of code, laying bare the intricacies that could harbor potential vulnerabilities.
+
+Moreover, this methodology encompasses formal methods, a branch of static analysis that harnesses rigorous mathematical techniques. Formal methods, including denotational semantics, operational semantics, and abstract interpretation, provide a structured lens through which software properties can be rigorously deduced.
+
+**Dynamic Analysis:**
+
+Dynamic analysis harnesses the dynamic execution of OpenHarmony applications within a controlled, sandboxed runtime environment. The potency of this approach lies in its ability to capture real-time behaviors during application runtime, enabling the identification of vulnerabilities and potential malware instances.
+
+Various techniques are harnessed within dynamic analysis, including network traffic analysis, code instrumentation, system call analysis, system resource analysis, and user interaction analysis. Each technique extracts invaluable insights into application behavior, casting light on critical facets ranging from network-related features to user interactions.
+
+Fuzz-Testing, a renowned dynamic analysis technique, perturbs input data, randomly mutating it and feeding it to the program under test at scale. This technique vigilantly monitors for anomalies and failures, offering a dynamic lens into application behavior under varying conditions.
+
+**Hybrid Analysis:**
+
+Hybrid analysis seamlessly marries the strengths of both static and dynamic paradigms, unveiling a comprehensive understanding of application dynamics.
+
+Commencing with decompilation, hybrid analysis taps into static attributes like permissions and intents. Subsequently, the application is executed within an emulator, culminating in a holistic view of behavior that encompasses both static and dynamic facets.
+
+The study "Feature engineering based on hybrid features for malware detection over Android framework" serves as an illustrative example, where static and dynamic features are employed to extract application-related insights. Decompilation of APK files, combined with dynamic execution within an emulator, generates a panoramic understanding of application attributes.
+
+**Machine Learning Methods:**
+
+This research harnesses the power of machine learning (ML) and deep learning (DL), deploying a diverse suite of algorithms such as Naive Bayes, Logistic Regression, Decision Trees, Random Forests, Gradient Boosting, LSTM networks, RNNs, and MLPs. These algorithms are pivotal in vulnerability detection, where source code is generalized into structured formats, forming the basis for training neural network models.
+
+Incorporating extensive datasets, these machine learning models strive to detect vulnerabilities embedded within source code, while also uncovering the behavioral patterns of malicious applications. Through the fusion of these methodologies, the study aims to build an intricate mosaic of insights that collectively contribute to enhancing system security.
+
+In summary, the amalgamation of static, dynamic, hybrid, and machine learning methodologies forms a comprehensive framework to address the multifaceted security challenges posed by OpenHarmony OS. This meticulously crafted approach paves the way for a robust and sophisticated system security enhancement strategy.
