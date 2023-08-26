@@ -108,6 +108,8 @@ Dynamic Analysis:
 
 Dynamic analysis harnesses the power of execution within a controlled sandbox runtime environment. This approach mandates a fully realized product, an OpenHarmony application complete with multiple HAP packages. By executing the application within this controlled setting, vulnerabilities and potential malware instances can be effectively identified. The potency of dynamic analysis lies in its capacity to scrutinize real-time behaviors during application runtime.
 
+Network traffic analysis, code instrumentation, system call analysis, system resource analysis, and interaction analysis, they were five feature extraction techniques identified for the dynamic analysis.
+
 Hybrid Analysis:
 
 Hybrid analysis ingeniously combines the strengths of both static and dynamic paradigms. It begins with decompilation to leverage static attributes such as permissions and intents. Subsequently, the application is executed within an emulator to discern intricate behaviors, culminating in a holistic understanding of application dynamics.
