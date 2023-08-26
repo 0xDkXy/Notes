@@ -108,7 +108,9 @@ Dynamic Analysis:
 
 Dynamic analysis harnesses the power of execution within a controlled sandbox runtime environment. This approach mandates a fully realized product, an OpenHarmony application complete with multiple HAP packages. By executing the application within this controlled setting, vulnerabilities and potential malware instances can be effectively identified. The potency of dynamic analysis lies in its capacity to scrutinize real-time behaviors during application runtime.
 
-Network traffic analysis, code instrumentation, system call analysis, system resource analysis, and interaction analysis, they were five feature extraction techniques identified for the dynamic analysis.
+Network traffic analysis, code instrumentation, system call analysis, system resource analysis, and user interaction analysis, they were five feature extraction techniques identified for the dynamic analysis. Network-related features, process-related features, usage-related details, and component interactions were extracted using those five methods. Under the network-related features, uniform resource locators, internet protocols, network protocols, network certificates, and network traffic were considered while considering non-encrypted data, Java classes, intents, and system call for process-related features. Usage-related features such as processor, memory, battery, network, and process reports were also considered. Additionally, buttons, icons, actions, and events were considered for user interaction analysis features.
+
+
 
 Hybrid Analysis:
 
