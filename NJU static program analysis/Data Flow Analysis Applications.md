@@ -20,3 +20,4 @@ Live variables analysis tells whether the value of variable v at program point p
 - information of live variables can be used for register allocations. e.g., at some point all registers are full and we need to use one, then we should favor using a register with a dead value.
 ### Algorithm of Live Variable Analysis
 ![image.png](https://raw.githubusercontent.com/0xDkXy/image/master/202309071842390.png?token=ANK274EYD364JJTLJP4JUCDE7GUVQ)
+### Example
