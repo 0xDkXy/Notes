@@ -21,3 +21,6 @@ Live variables analysis tells whether the value of variable v at program point p
 ### Algorithm of Live Variable Analysis
 ![image.png](https://raw.githubusercontent.com/0xDkXy/image/master/202309071842390.png?token=ANK274EYD364JJTLJP4JUCDE7GUVQ)
 ### Example
+![image.png](https://raw.githubusercontent.com/0xDkXy/image/master/202309071850618.png?token=ANK274HDOEU2TBIRXCOIVILE7GVUM)
+**Notice:** in the iteration 1, when calculate the $in[b]$ of B2, the m is not in the $use[b2]$ because it was defined in the previous line.
+## Available Expression Analysis
