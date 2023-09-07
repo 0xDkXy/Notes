@@ -16,3 +16,5 @@ fixed point / monotonicity
 
 ## Live Variable Analysis
 Live variables analysis tells whether the value of variable v at program point p could be used along some path in CFG starting at p. If so, v is live at p; otherwise, v is dead at p.
+
+- information of live variables can be used for register allocations. e.g., at some point all registers are full and we need to use one, then we should favor using a register with a dead value.
