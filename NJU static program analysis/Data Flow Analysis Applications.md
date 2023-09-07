@@ -30,3 +30,5 @@ An expression $x\ op\ y$ is available at program point p if:
 
 - This definition means at program p, we can replace expression $x\ op\ y$ by the result of its last evaluation.
 - The information of available expressions can be used for detecting global common subexpressions.
+### Algorithm of Available Expression Analysis
+![image.png](https://raw.githubusercontent.com/0xDkXy/image/master/202309071921042.png)
