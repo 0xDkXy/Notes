@@ -7,5 +7,4 @@ A definition d at program point p reaches a point q if there is a path from p to
 
 $D: v = x\ op\ y$ 
 This statement "generates" a definition D of variable v and "kills" all the other definitions in the program that define variable v, while leaving the remaining incoming definitions unaffected.
-![](https://raw.githubusercontent.com/0xDkXy/image/master/202309071817993.png?token=ANK274C63GVUQZ35S25VW5LE7GRYG)
-
+![image.png](https://raw.githubusercontent.com/0xDkXy/image/master/202309071821709.png?token=ANK274AEZVZPE5X4JVXG6D3E7GSG2)
