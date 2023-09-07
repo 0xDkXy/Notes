@@ -27,3 +27,6 @@ Live variables analysis tells whether the value of variable v at program point p
 An expression $x\ op\ y$ is available at program point p if:
 1. all paths from the entry to p *must* pass through the evaluation of $x\ op\ y$, 
 2. after the last evaluation of $x\ op\ y$, there is no redefinition of $x\ op\ y$
+
+- This definition means at program p, we can replace expression $x\ op\ y$ by the result of its last evaluation.
+- 
