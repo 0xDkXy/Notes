@@ -8,3 +8,4 @@ A definition d at program point p reaches a point q if there is a path from p to
 $D: v = x\ op\ y$ 
 This statement "generates" a definition D of variable v and "kills" all the other definitions in the program that define variable v, while leaving the remaining incoming definitions unaffected.
 ![[Data Flow Analysis Applications-1.png]]
+![[Data Flow Analysis Applications-2.png]]
