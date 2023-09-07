@@ -11,3 +11,8 @@ This statement "generates" a definition D of variable v and "kills" all the othe
 ![image.png](https://raw.githubusercontent.com/0xDkXy/image/master/202309071829256.png?token=ANK274EJ3GBK3LXT2LQZ2QLE7GTEQ)
 ### Example
 ![image.png](https://raw.githubusercontent.com/0xDkXy/image/master/202309071831490.png?token=ANK274B6Y3CCTP6F3T5UYZ3E7GTNA)
+### Why this iterative algorithm can finally stop
+fixed point / monotonicity
+
+## Live Variable Analysis
+Live variables analysis tells whether the value of variable v at program point p could be used along some path in CFG starting at p. If so, v is live at p; otherwise, v is dead at p.
