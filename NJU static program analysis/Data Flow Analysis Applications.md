@@ -9,5 +9,4 @@ $D: v = x\ op\ y$
 This statement "generates" a definition D of variable v and "kills" all the other definitions in the program that define variable v, while leaving the remaining incoming definitions unaffected.
 
 ![image.png](https://raw.githubusercontent.com/0xDkXy/image/master/202309071829256.png?token=ANK274EJ3GBK3LXT2LQZ2QLE7GTEQ)
-
-###
+### Example
