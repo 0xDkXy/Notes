@@ -29,4 +29,4 @@ An expression $x\ op\ y$ is available at program point p if:
 2. after the last evaluation of $x\ op\ y$, there is no redefinition of $x\ op\ y$
 
 - This definition means at program p, we can replace expression $x\ op\ y$ by the result of its last evaluation.
-- 
+- The information of available expressions can be used for detecting global common subexpressions.
