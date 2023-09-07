@@ -32,3 +32,9 @@ An expression $x\ op\ y$ is available at program point p if:
 - The information of available expressions can be used for detecting global common subexpressions.
 ### Algorithm of Available Expression Analysis
 ![image.png](https://raw.githubusercontent.com/0xDkXy/image/master/202309071921042.png)
+### Example 
+![image.png](https://raw.githubusercontent.com/0xDkXy/image/master/202309071934717.png)
+About the kill, we can look at B2 in the iteration 1. In is 10000 and the gen set is $z/5$ and $e^7*x$. Because the p is used in $p=e^7*x$, so p is killed.
+## Comparison
+![image.png](https://raw.githubusercontent.com/0xDkXy/image/master/202309071937884.png)
+
