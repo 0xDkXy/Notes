@@ -24,3 +24,6 @@ Live variables analysis tells whether the value of variable v at program point p
 ![image.png](https://raw.githubusercontent.com/0xDkXy/image/master/202309071850618.png?token=ANK274HDOEU2TBIRXCOIVILE7GVUM)
 **Notice:** in the iteration 1, when calculate the $in[b]$ of B2, the m is not in the $use[b2]$ because it was defined in the previous line.
 ## Available Expression Analysis
+An expression $x\ op\ y$ is available at program point p if:
+1. all paths from the entry to p *must* pass through the evaluation of $x\ op\ y$, 
+2. after the last evaluation of $x\ op\ y$, there is no redefinition of $x\ op\ y$
