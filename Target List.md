@@ -19,7 +19,7 @@
 - MCS
 ### UCR
 - MSCS
-### USD
+### UCD
 - MSCS
 ### UMass
 - MSCS
