@@ -20,3 +20,5 @@
 - MSCS
 ### UMass
 - MSCS
+### UMN
+- MSCS
