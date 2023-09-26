@@ -22,3 +22,5 @@
 - MSCS
 ### UMN
 - MSCS
+### OSU
+- MSCS IELTS 7.0
