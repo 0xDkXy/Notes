@@ -4,6 +4,9 @@ new processes scheduler
 ## Linux Kernel 2.6
 new process schedulers aimed at improving the interactive performance
 
+## Linux Kernel Module
+- [The Linux Kernel Module Programming Guida](https://sysprog21.github.io/lkmpg/)
+
 ## Formal Method
 - [Using Formal Methods At Work](https://www.hillelwayne.com/post/using-formal-methods/)
 - [Why Don't People Use Formal Methods](https://www.hillelwayne.com/post/why-dont-people-use-formal-methods/)
