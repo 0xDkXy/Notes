@@ -31,3 +31,6 @@
 - [Huaicheng Li](https://huaicheng.github.io/) OS
 ### Purdue
 - [Yongle Zhang](https://yonglezh-purdue.github.io/) software systems.
+### Stony Brook
+- [Dongyoon Lee](https://www3.cs.stonybrook.edu/~dongyoon/students.html)
+- [Shuai Mu](mpaxos.com)
