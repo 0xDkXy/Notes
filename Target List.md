@@ -32,5 +32,6 @@
 ### Purdue
 - [Yongle Zhang](https://yonglezh-purdue.github.io/) software systems.
 ### Stony Brook
+Deadline: January 15
 - [Dongyoon Lee](https://www3.cs.stonybrook.edu/~dongyoon/students.html)
 - [Shuai Mu](mpaxos.com)
