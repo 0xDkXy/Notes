@@ -15,3 +15,19 @@ The choice between using verbs in their "-ed" (past participle) or "-ing" (prese
    Here, "playing" suggests that the child is actively engaged in playing in the park at the same time as having a big smile.
 
 In summary, the choice between "-ed" and "-ing" forms of verbs to modify nouns can influence whether the action or state described is seen as completed (past participle) or ongoing (present participle). Both forms are correct and grammatically sound, but they convey slightly different aspects of the situation.
+
+### Active and Passive Voice
+
+I see what you mean now. You're referring to the passive and active forms of verbs used to modify nouns. Here's the difference between them:
+
+1. **Active Voice (-ing form):** When you use the "-ing" form of a verb to modify a noun, you're typically using the active voice. In this case, the noun is actively involved in performing the action described by the verb.
+
+   Example: "The chef, creating stunning paintings, gained recognition worldwide."
+   In this sentence, "creating" is in the active voice, and it emphasizes that the chef is actively involved in creating stunning paintings.
+
+2. **Passive Voice (-ed form):** When you use the "-ed" form of a verb to modify a noun, you may be using the passive voice. In this case, the focus shifts to the noun being acted upon or affected by the action described by the verb.
+
+   Example: "The artist, praised for her work, was awarded a prestigious prize."
+   Here, "praised" is in the passive voice, and it emphasizes that the artist is the recipient of praise rather than actively performing the action of praising.
+
+So, the choice between the active and passive forms of verbs to modify nouns can also affect how the action or state is presented, with the active voice emphasizing the doer of the action and the passive voice emphasizing the receiver of the action or state.
