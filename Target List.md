@@ -12,7 +12,7 @@
 - MCS
 - MSCE
 ### NEU
-- cs general: IELTS 7.5
+- cs general: IELTS 7.5 
 ### UCI
 - NetSys
 - MSCS
