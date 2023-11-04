@@ -1,39 +1,38 @@
 ## MS without GRE
-### CUB MSCS
-### IUB
+### 1. CUB MSCS
+### 2. IUB
 - GRE optional
-### UVA
+### 3. UVA
 - [Chang Lou](https://changlousys.github.io/about/) **robust** and **highly available systems**. One major focus is to enhance the capabilities of **distributed systems** to **detect, localize, and react to complex failures at runtime**.
 - mscs
 - msce
 - mcs
-### TAMU 
+### 4. TAMU 
 - MSCS
 - MCS
 - MSCE
-### NEU
-- cs general: IELTS 7.5 
-### UCI
+### 5. UCI
 - NetSys
 - MSCS
 - MCS
-### UCR
+### 6. UCR
 - MSCS
-### UCD
+### 7. UCD
 - MSCS
-### UMass
+### 8. UMass
 - MSCS
-### UMN
+### 9. UMN
 - MSCS
-### OSU
+### 10. OSU
 - MSCS IELTS 7.0
-### Virginia Tech
+### 11. Virginia Tech
 - [Huaicheng Li](https://huaicheng.github.io/) OS
 ### Purdue (PhD Only)
 - [Yongle Zhang](https://yonglezh-purdue.github.io/) software systems.
-### Stony Brook
+### 12. Stony Brook
 Deadline: January 15
 IELTS overall 6.5
 - [Dongyoon Lee](https://www3.cs.stonybrook.edu/~dongyoon/students.html)
 - [Shuai Mu](mpaxos.com)
-### Utah
+### 13. Utah
+### 14. UCSC
