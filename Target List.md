@@ -1,6 +1,8 @@
 ## MS without GRE
 ### 1. CUB MSCS
 - 12.15
+- 3 lor
+- 
 ### 2. IUB
 - GRE optional
 ### 3. UVA
