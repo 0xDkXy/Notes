@@ -15,7 +15,7 @@
 ### 4. TAMU 
 #### MSCS/MCS
 - Jan 15
-- 
+- IELTS: 6.0
 - MSCE
 ### 5. UCI
 - NetSys
