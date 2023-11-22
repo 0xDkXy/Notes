@@ -13,8 +13,9 @@
 - msce
 - mcs
 ### 4. TAMU 
-- MSCS
-- MCS
+#### MSCS/MCS
+- Jan 15
+- 
 - MSCE
 ### 5. UCI
 - NetSys
