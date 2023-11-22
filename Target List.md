@@ -21,6 +21,7 @@
 - NetSys
 - MSCS
 - MCS
+- Jan 15
 ### 6. UCR
 - MSCS
 ### 7. UCD
