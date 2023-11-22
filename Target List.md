@@ -36,6 +36,8 @@
 - IELTS 6.5
 ### 9. UMN
 - MSCS
+- March 1st
+- 6.5
 ### 10. OSU
 - MSCS IELTS 7.0
 ### 11. Virginia Tech
