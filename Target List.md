@@ -2,9 +2,11 @@
 ### 1. CUB MSCS
 - 12.15
 - 3 lor
-- 
+- IELTS min: 7.0 overall
 ### 2. IUB
 - GRE optional
+- Jan 1st
+- IELTS min: 7.0
 ### 3. UVA
 - [Chang Lou](https://changlousys.github.io/about/) **robust** and **highly available systems**. One major focus is to enhance the capabilities of **distributed systems** to **detect, localize, and react to complex failures at runtime**.
 - mscs
