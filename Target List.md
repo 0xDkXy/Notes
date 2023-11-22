@@ -27,6 +27,7 @@
 - DDL: March 1st
 ### 7. UCD
 - MSCS
+- Dec 15
 ### 8. UMass
 - MSCS
 - Dec 15th
