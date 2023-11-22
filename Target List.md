@@ -25,7 +25,6 @@
 ### 6. UCR
 - MSCS
 - DDL: March 1st
-- 
 ### 7. UCD
 - MSCS
 ### 8. UMass
@@ -48,4 +47,7 @@ IELTS overall 6.5
 - IELTS: 7.0
 ### 15. UTexas Austin
 ### 16. GaTech
-### 17. 
+### 17. BU
+- Jan 15st
+- GRE require
+- IETLS: 7.0 overall
