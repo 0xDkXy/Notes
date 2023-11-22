@@ -29,6 +29,9 @@
 - MSCS
 ### 8. UMass
 - MSCS
+- Dec 15th
+- 2 lors
+- IELTS 6.5
 ### 9. UMN
 - MSCS
 ### 10. OSU
