@@ -23,7 +23,7 @@
 - MCS
 - Jan 15
 ### 6. UCR
-- MSCS
+- MSCE
 - DDL: March 1st
 ### 7. UCD
 - MSCS
