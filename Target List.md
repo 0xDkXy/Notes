@@ -25,10 +25,6 @@
 ### 6. UCR
 - MSCE
 - DDL: March 1st
-### 7. UCD
-- MSCS
-- Dec 15th
-- 7.0
 ### 8. UMass
 - MSCS
 - Dec 15th
@@ -52,9 +48,6 @@ IELTS overall 6.5
 ### 13. Utah
 ### 14. UCSC
 - IELTS: 7.0
-### 15. UTexas Austin
-### 16. GaTech
-### 17. BU
-- Jan 15st
-- GRE require
+### 17. BU ece
+- Dec 15st
 - IETLS: 7.0 overall
