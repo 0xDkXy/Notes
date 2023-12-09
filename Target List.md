@@ -1,12 +1,4 @@
 ## MS without GRE
-### 1. CUB MSCS
-- 12.15
-- 3 lor
-- IELTS min: 7.0 overall
-### 2. IUB
-- GRE optional
-- Jan 1st
-- IELTS min: 7.0
 ### 3. UVA
 - [Chang Lou](https://changlousys.github.io/about/) **robust** and **highly available systems**. One major focus is to enhance the capabilities of **distributed systems** to **detect, localize, and react to complex failures at runtime**.
 - mscs
@@ -19,8 +11,6 @@
 - MSCE
 ### 5. UCI
 - NetSys
-- MSCS
-- MCS
 - Jan 15
 ### 6. UCR
 - MSCE
@@ -34,12 +24,8 @@
 - MSCS
 - March 1st
 - 6.5
-### 10. OSU
-- MSCS IELTS 7.0
 ### 11. Virginia Tech
 - [Huaicheng Li](https://huaicheng.github.io/) OS
-### Purdue (PhD Only)
-- [Yongle Zhang](https://yonglezh-purdue.github.io/) software systems.
 ### 12. Stony Brook
 Deadline: January 15
 IELTS overall 6.5
