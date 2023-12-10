@@ -39,21 +39,21 @@ IELTS overall 6.5
 - IETLS: 7.0 overall
 
 ## LOR
-|project|X|H|Y|
-|---|---|---|---|
-|UVA phd|||
-|UVA MS|||
-|VT phd|||
-|VT MS|||
-|UMass phd|||
-|UMass MS|||
-|BU ECE phd|||
-|Rutgers phd|||
-|UCSC phd|||
-|TAMU ms|||
-|SBU phd|||
-|UCR phd|||
-|UCI NetSys|||
+|project|X|H|Y|DDL|
+|---|---|---|---|---|
+|UVA phd||||12.15|
+|UVA MS|||||
+|VT phd||||12.15|
+|VT MS|||||
+|UMass phd|||||
+|UMass MS|||||
+|BU ECE phd|||||
+|Rutgers phd|||||
+|UCSC phd|||||
+|TAMU ms|||||
+|SBU phd|||||
+|UCR phd|||||
+|UCI NetSys|||||
 ||||
 ||||
 ||||
