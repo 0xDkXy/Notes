@@ -37,3 +37,18 @@ IELTS overall 6.5
 ### 17. BU ece
 - Dec 15st
 - IETLS: 7.0 overall
+
+## LOR
+|project|X|H|Y|
+|---|---|---|---|
+|UVA phd|||
+|UVA MS|||
+|VT phd|||
+|VT MS|||
+||||
+||||
+||||
+||||
+||||
+||||
+||||
