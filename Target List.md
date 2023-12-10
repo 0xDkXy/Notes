@@ -52,7 +52,7 @@ IELTS overall 6.5
 |UCSC phd|||||
 |TAMU ms||||12.15|
 |SBU phd|||||
-|UCR msce|||||
+|UCR msce||||June 1st|
 |UCI NetSys|||||
 |ASU|not need|not need|not need|12.31||
 ||||
