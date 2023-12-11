@@ -31,8 +31,8 @@ Deadline: January 15
 IELTS overall 6.5
 - [Dongyoon Lee](https://www3.cs.stonybrook.edu/~dongyoon/students.html)
 - [Shuai Mu](mpaxos.com)
-### 13. Utah
-### 14. UCSC
+	### 13. Utah
+	### 14. UCSC
 - IELTS: 7.0
 ### 17. BU ece
 - Dec 15st
