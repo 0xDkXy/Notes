@@ -38,9 +38,9 @@ IELTS overall 6.5
 - Dec 15st
 
 ## LOR
-|project|X|H|Y|DDL|IELTS|submit?|
-|---|---|---|---|---|---|---|
-|UVA phd||||12.15|
+|project|X|H|Y|DDL|IELTS|submit?|fee|
+|---|---|---|---|---|---|---|---|
+|UVA phd||||12.15|||wavie|
 |UVA MS|||||
 |VT phd||||12.15|
 |VT MS||||12.15|
@@ -53,11 +53,4 @@ IELTS overall 6.5
 |SBU phd|||||
 |UCR msce||||June 1st|7.0|
 |UCI NetSys|||||
-|ASU|not need|not need|not need|12.31||
-||||
-||||
-||||
-||||
-||||
-||||
-||||
+|ASU|not need|not need|not need|12.31||ready|115|
