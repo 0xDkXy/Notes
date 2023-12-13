@@ -41,11 +41,11 @@ IELTS overall 6.5
 |project|X|H|Y|DDL|IELTS|submit?|fee|
 |---|---|---|---|---|---|---|---|
 |UVA phd|r||r|12.15|||wavie|
-|UVA MS|||r||||85|
+|UVA MS|r||r||||85|
 |VT phd|r||r|12.15|||75|
 |VT MS|r||r|12.15|||75|
-|UMass phd|||r|12.15|||85|
-|UMass MS|||r|12.15|||85|
+|UMass phd|r||r|12.15|||85|
+|UMass MS|r||r|12.15|||85|
 |BU ECE phd|||r|12.15|||95|
 |Rutgers phd|||r|12.15|||70|
 |UCSC phd|||r||7.0|
