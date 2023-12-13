@@ -49,7 +49,7 @@ IELTS overall 6.5
 |BU ECE phd|||r|12.15|||95|
 |Rutgers phd|||r|12.15|||70|
 |UCSC phd|||||7.0|
-|TAMU ms||||12.15|||148|
+|TAMU ms|||r|12.15|||148|
 |SBU phd|||r||
 |UCR msce||||June 1st|7.0|
 |UCI NetSys|||||
