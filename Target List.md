@@ -41,7 +41,7 @@ IELTS overall 6.5
 |project|X|H|Y|DDL|IELTS|submit?|fee|
 |---|---|---|---|---|---|---|---|
 |UVA phd|r save|r|r|12.15|||wavie|
-|UVA MS|r|r|r||||85|
+|UVA MS|r save|r|r||||85|
 |VT phd|r||r|12.15|||75|
 |VT MS|r||r|12.15|||75|
 |UMass phd|r|r|r|12.15|||85|
