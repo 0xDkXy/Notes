@@ -52,5 +52,5 @@ IELTS overall 6.5
 |TAMU ms|r sub|r|r|12.15|||148|
 |SBU phd|r save|r|r||
 |UCR msce|r save|r|r|June 1st|7.0|
-|UCI NetSys|r save||r||
+|UCI NetSys|r save||r save||
 |ASU|not need|not need|not need|12.31||ready|115|
