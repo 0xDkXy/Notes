@@ -42,8 +42,8 @@ IELTS overall 6.5
 |---|---|---|---|---|---|---|---|
 |UVA phd|r save|r|r save|12.15|||wavie|
 |UVA MS|r save|r|r save||||85|
-|VT phd|r sub|r|r sub|12.15|||75|
-|VT MS|r sub|r|r sub|12.15|||75|
+|VT phd|r sub|r sub|r sub|12.15|||75|
+|VT MS|r sub|r sub|r sub|12.15|||75|
 |UMass phd|r sub|r|r sub|12.15|||85|
 |UMass MS|r sub|r|r sub|12.15|||85|
 |BU ECE phd|r sub|r|r sub|12.15|||95|
