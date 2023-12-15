@@ -48,7 +48,7 @@ IELTS overall 6.5
 |UMass MS|r sub|r|r sub|12.15|||85|
 |BU ECE phd|r sub|r sub|r sub|12.15|||95|
 |Rutgers phd|r sub|r sub|r sub|12.15|||70|
-|UCSC phd|r save|r|r save||7.0|
+|UCSC phd|r save|r sub|r save||7.0|
 |TAMU ms|r sub|r|r save|12.15|||148|
 |SBU phd|r save|r|r save||
 |UCR msce|r save|r|r save|June 1st|7.0|
