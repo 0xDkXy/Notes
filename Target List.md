@@ -50,7 +50,7 @@ IELTS overall 6.5
 |Rutgers phd|r sub|r sub|r sub|12.15|||70|
 |UCSC phd|r save|r sub|r save||7.0|
 |TAMU ms|r sub|r sub|r save|12.15|||148|
-|SBU phd|r save|r|r save||
+|SBU phd|r save|r sub|r save||
 |UCR msce|r save|r sub|r save|June 1st|7.0|
 |UCI NetSys|r save||r save||
 |ASU|not need|not need|not need|12.31||ready|115|
