@@ -53,5 +53,5 @@ IELTS overall 6.5
 |SBU phd|r save|r sub|r save||
 |UCR msce|r save|r sub|r save|June 1st|7.0|
 |UCI NetSys|r save||r save|15th Jan||||
-|ASU|not need|not need|not need|12.31||ready|115|
+|ASU|not need|not need|not need|12.31||Y|115|
 
