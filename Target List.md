@@ -38,20 +38,20 @@ IELTS overall 6.5
 - Dec 15st
 
 ## LOR
-|project|X|H|Y|DDL|IELTS|submit?|fee|
-|---|---|---|---|---|---|---|---|
-|UVA phd|r sub|r sub|r sub|12.15||Y|wavie|
-|UVA MS|r sub|r sub|r sub||||85|
-|VT phd|r sub|r sub|r sub|12.15||Y|75|
-|VT MS|r sub|r sub|r sub|12.15||Y|75|
-|UMass phd|r sub|r sub|r sub|12.15||Y|85|
-|UMass MS|r sub|r sub|r sub|12.15||Y|85|
-|BU ECE phd|r sub|r sub|r sub|12.15||Y|95|
-|Rutgers phd|r sub|r sub|r sub|12.15||Y|70|
-|UCSC phd|r sub|r sub|r save||7.0|
-|TAMU ms|r sub|r sub|r sub|15th Jan|||148|
-|SBU phd|r save|r sub|r save||
-|UCR msce|r save|r sub|r save|June 1st|7.0|
-|UCI NetSys|r save||r save|15th Jan||||
-|ASU|not need|not need|not need|12.31||Y|115|
+| project | X | H | Y | DDL | IELTS | submit? | fee |
+| ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
+| UVA phd | r sub | r sub | r sub | 12.15 |  | Y | wavie |
+| UVA MS | r sub | r sub | r sub |  |  |  | 85 |
+| VT phd | r sub | r sub | r sub | 12.15 |  | Y | 75 |
+| VT MS | r sub | r sub | r sub | 12.15 |  | Y | 75 |
+| UMass phd | r sub | r sub | r sub | 12.15 |  | Y | 85 |
+| UMass MS | r sub | r sub | r sub | 12.15 |  | Y | 85 |
+| BU ECE phd | r sub | r sub | r sub | 12.15 |  | Y | 95 |
+| Rutgers phd | r sub | r sub | r sub | 12.15 |  | Y | 70 |
+| UCSC phd | r sub | r sub | r save |  | 7.0 |  |  |
+| TAMU ms | r sub | r sub | r sub | 15th Jan |  |  | 148 |
+| SBU phd | r save | r sub | r save |  |  |  |  |
+| UCR msce | r save | r sub | r save | June 1st | 7.0 |  |  |
+| UCI NetSys | r save |  | r save | 15th Jan |  |  |  |
+| ASU | not need | not need | not need | 12.31 |  | Y | 115 |
 
