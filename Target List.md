@@ -52,6 +52,6 @@ IELTS overall 6.5
 | TAMU ms | r sub | r sub | r sub | 15th Jan |  |  | 148 |
 | SBU phd | r save | r sub | r save |  |  |  |  |
 | UCR msce | r save | r sub | r save | June 1st | 7.0 |  |  |
-| UCI NetSys | r save |  | r save | 15th Jan |  |  |  |
+| UCI ece ms | r save |  | r save | 15th Jan |  |  |  |
 | ASU | not need | not need | not need | 12.31 |  | Y | 115 |
 
